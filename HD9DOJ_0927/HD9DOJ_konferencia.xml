@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE konferencia [
+<!ELEMENT konferencia (cim,hallgatok,helyszin,eloado,datum) >
+<!ELEMENT cim (#PCDATA) >
+<!ELEMENT hallgatok (hallgato) >
+<!ELEMENT hallgato (nev,lakcim) >
+<!ELEMENT nev (#PCDATA) >
+<!ELEMENT lakcim (#PCDATA) >
+<!ELEMENT helyszin (#PCDATA) >
+<!ELEMENT datum (#PCDATA) >
+<!ELEMENT eloado (nev,adoszam,lakcim) >
+<!ELEMENT adoszam (#PCDATA) >
+]>
+
+<konferencia>
+    <cim>
+        Mesterséges intelligencia – barát vagy ellenség?
+    </cim>
+
+    <hallgatok>
+    <hallgato>
+        <nev>
+            Harsányi Balázs
+        </nev>
+        <lakcim>
+
+        </lakcim>
+    </hallgato>
+    </hallgatok>
+
+    <helyszin>
+        Miskolc, Lórántffy Zsuzsanna u. 30/A
+    </helyszin>
+
+    <eloado>
+        <nev>
+            Karacs Kristóf
+        </nev>
+        <adoszam>
+
+        </adoszam>
+        <lakcim>
+
+        </lakcim>
+    </eloado>
+
+    <datum>
+        2023. október 5-én, csütörtök 17.30
+    </datum>
+
+</konferencia>
