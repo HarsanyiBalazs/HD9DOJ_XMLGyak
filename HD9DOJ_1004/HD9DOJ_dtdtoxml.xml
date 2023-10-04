@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE HD9DOJ_modell SYSTEM "HD9DOJ_ertodtd.dtd" >
+
+<HD9DOJ_modell>
+    <A a="a">
+        <b>
+            <x></x>
+            <y></y>
+        </b>
+        <c>
+            <d></d>
+            <e></e>
+        </c>
+    </A>
+    <B a="b" cref="c">
+        <b>
+            <x></x>
+            <y></y>
+        </b>
+    </B>
+    <C a="c">
+        <b2></b2>
+    </C>
+    <AB aref="a" bref="b">
+        <c2></c2>
+    </AB>
+</HD9DOJ_modell>
