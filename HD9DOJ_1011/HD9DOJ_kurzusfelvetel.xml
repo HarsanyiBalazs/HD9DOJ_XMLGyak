@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<HD9DOJ_kurzusfelvetel xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:noNamespaceSchemaLocation="HD9DOJ_kurzusfelvetel.xsd" tanev="3" egyetem="Miskolci Egyetem">
+
+    <hallgato>
+        <hnev>Harsányi Balázs</hnev>
+        <szulev>2001-10-15</szulev>
+        <szak>programtervező informatikus</szak>
+    </hallgato>
+
+    <kurzusok>
+        <kurzus id="GEIAL304-B" jovahagyas="igen">
+            <kurzusnev>Számítógép hálózatok</kurzusnev>
+            <kredit>5</kredit>
+            <hely>II. ea</hely>
+            <idopont>szerda 8-10</idopont>
+            <oktato>Dr. Kovács Szilveszter</oktato>
+        </kurzus>
+        <kurzus id="GEIAK130-B" jovahagyas="igen">
+            <kurzusnev>Mesterséges intelligencia alapok</kurzusnev>
+            <kredit>5</kredit>
+            <hely>XXXII. ea</hely>
+            <idopont>kedd 10-12</idopont>
+            <oktato>Fazekas Levente Áron</oktato>
+        </kurzus>
+        <kurzus id="GEIAL331-B" jovahagyas="igen">
+            <kurzusnev>Web technológiák 1</kurzusnev>
+            <kredit>5</kredit>
+            <hely>XXX. ea</hely>
+            <idopont>hétfő 14-16</idopont>
+            <oktato>Dr. Agárdi Anita</oktato>
+        </kurzus>
+        <kurzus id="GEMAK234-B" jovahagyas="igen">
+            <kurzusnev>Algoritmusok és vizsgálatuk</kurzusnev>
+            <kredit>5</kredit>
+            <hely>320</hely>
+            <idopont>kedd 14-16</idopont>
+            <oktato>Dr. Házy Attila</oktato>
+        </kurzus>
+        <kurzus id="GEIAL332-B" jovahagyas="igen">
+            <kurzusnev>Adatkezelés XML-ben</kurzusnev>
+            <kredit>5</kredit>
+            <hely>XXX. ea</hely>
+            <idopont>kedd 12-14</idopont>
+            <oktato>Dr. Bednarik László</oktato>
+        </kurzus>
+        <kurzus id="GEIAL315-B" jovahagyas="igen">
+            <kurzusnev>Vállalati információs rendszerek fejlesztése</kurzusnev>
+            <kredit>5</kredit>
+            <hely>101 inf</hely>
+            <idopont>szerda 14-16</idopont>
+            <oktato>Dr. Sasvári Péter László</oktato>
+        </kurzus>
+        <kurzus id="GEMAK232-B" jovahagyas="igen">
+            <kurzusnev>Valószínűség-számítás</kurzusnev>
+            <kredit>5</kredit>
+            <hely>320</hely>
+            <idopont>hétfő 10-12</idopont>
+            <oktato>Dr. Fegyverneki Sándor</oktato>
+        </kurzus>
+    </kurzusok>
+
+</HD9DOJ_kurzusfelvetel>
